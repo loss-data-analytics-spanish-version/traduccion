@@ -1,4 +1,7 @@
 
+# This is the developers site for the Spanish translation of Loss Data Analytics book
+We are translating the book into Spanish. We initially clone https://github.com/OpenActTexts/Loss-Data-Analytics
+
 # Open Actuarial Textbooks Project Goal
 The goal is to have the actuarial community author our textbooks in a collaborative fashion. *GitHub* provides a natural development environment to achieve this goal. See the [Open Actuarial Textbooks Project Site](https://OpenActTexts.github.io) for more information about this project.
 
